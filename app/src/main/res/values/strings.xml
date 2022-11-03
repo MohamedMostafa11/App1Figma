@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">mohamed_s_application1</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg_enter_the_email">Enter the email address to get the reset your password</string>
+<string name="lbl_email">Email</string>
+<string name="lbl_next">Next</string>
+<string name="msg_forget_password">Forget Password?</string>
+<string name="msg_don_t_have_an_a">Don\u2019t have an account yet?</string>
+<string name="msg_confirm_passwot">Confirm Passwotd</string>
+<string name="msg_already_hane_an">Already hane an account?</string>
+<string name="lbl_login_page">Login Page</string>
+<string name="lbl_login">Login</string>
+<string name="msg_keep_me_signed">Keep me signed in</string>
+<string name="lbl_female">Female</string>
+<string name="lbl_app_navigation">App Navigation</string>
+<string name="lbl_new_passwotd">New Passwotd</string>
+<string name="lbl_change_password">Change Password</string>
+<string name="lbl_verify">Verify</string>
+<string name="lbl_sign_in">Sign in</string>
+<string name="msg_please_fill_the">Please Fill the credentials</string>
+<string name="lbl_register_page">Register Page</string>
+<string name="msg_check_your_app">"Check your app's UI from the below demo screens of your app."</string>
+<string name="lbl_passwotd">Passwotd</string>
+<string name="lbl_sign_up">Sign up</string>
+<string name="lbl_male">Male</string>
+<string name="msg_forget_password2">Forget Password Page</string>
+<string name="msg_forget_password3">Forget Password Virify</string>
+<string name="lbl_username">Username</string>
+<string name="lbl_register">Register</string>
+<string name="msg_please_enter_valid_email">Please enter valid email</string>
+<string name="msg_please_enter_valid_text">Please enter valid text</string>
+</resources>
